@@ -1,4 +1,5 @@
 *.sw*
-.terraform
-*.tfstate*
+**/.terraform/*
+*.tfstate
+*.tfstate.*
 ftpsync.settings

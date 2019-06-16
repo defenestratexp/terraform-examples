@@ -1,0 +1,1 @@
+s3_devel_main_bucket = "n9n-devel-bucket"
