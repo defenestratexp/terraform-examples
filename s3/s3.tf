@@ -3,7 +3,7 @@
 ##################
 
 resource "aws_s3_bucket" "n9n_devel_main" {
-  bucket    = "n9n_devel_bucket"
+  bucket    = "n9n-devel-bucket"
   acl       = "private"
 
   tags = {
